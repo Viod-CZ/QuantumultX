@@ -287,3 +287,8 @@ USER-AGENT,com.google.ios.youtubemusic*,国际媒体
 IP-CIDR,172.110.32.0/21,国际媒体
 IP-CIDR,216.73.80.0/20,国际媒体
 IP6-CIDR,2620:120:e000::/40,国际媒体
+# NAME: Instagram
+HOST-SUFFIX,cdninstagram.com,国际媒体
+HOST-SUFFIX,instagr.am,国际媒体
+HOST-SUFFIX,instagram.com,国际媒体
+HOST-KEYWORD,instagram,国际媒体
