@@ -7,24 +7,24 @@
 # IP-CIDR: 11
 # IP6-CIDR: 1
 # TOTAL: 21
-HOST-SUFFIX,ext-twitch.tv,Twitch
-HOST-SUFFIX,jtvnw.net,Twitch
-HOST-SUFFIX,live-video.net,Twitch
-HOST-SUFFIX,ttvnw.net,Twitch
-HOST-SUFFIX,twitch-ext.rootonline.de,Twitch
-HOST-SUFFIX,twitch.tv,Twitch
-HOST-SUFFIX,twitchcdn.net,Twitch
-HOST-SUFFIX,twitchsvc.net,Twitch
-HOST-KEYWORD,ttvnw,Twitch
-IP-CIDR,103.53.48.0/23,Twitch
-IP-CIDR,185.42.204.0/22,Twitch
-IP-CIDR,192.108.239.0/24,Twitch
-IP-CIDR,192.16.64.0/21,Twitch
-IP-CIDR,199.9.248.0/21,Twitch
-IP-CIDR,23.160.0.0/24,Twitch
-IP-CIDR,45.113.128.0/22,Twitch
-IP-CIDR,52.223.192.0/20,Twitch
-IP-CIDR,52.223.208.0/21,Twitch
-IP-CIDR,52.223.224.0/19,Twitch
-IP-CIDR,99.181.64.0/18,Twitch
-IP6-CIDR,2402:2a80::/32,Twitch
+HOST-SUFFIX,ext-twitch.tv,国际媒体
+HOST-SUFFIX,jtvnw.net,国际媒体
+HOST-SUFFIX,live-video.net,国际媒体
+HOST-SUFFIX,ttvnw.net,国际媒体
+HOST-SUFFIX,twitch-ext.rootonline.de,国际媒体
+HOST-SUFFIX,twitch.tv,国际媒体
+HOST-SUFFIX,twitchcdn.net,国际媒体
+HOST-SUFFIX,twitchsvc.net,国际媒体
+HOST-KEYWORD,ttvnw,国际媒体
+IP-CIDR,103.53.48.0/23,国际媒体
+IP-CIDR,185.42.204.0/22,国际媒体
+IP-CIDR,192.108.239.0/24,国际媒体
+IP-CIDR,192.16.64.0/21,国际媒体
+IP-CIDR,199.9.248.0/21,国际媒体
+IP-CIDR,23.160.0.0/24,国际媒体
+IP-CIDR,45.113.128.0/22,国际媒体
+IP-CIDR,52.223.192.0/20,国际媒体
+IP-CIDR,52.223.208.0/21,国际媒体
+IP-CIDR,52.223.224.0/19,国际媒体
+IP-CIDR,99.181.64.0/18,国际媒体
+IP6-CIDR,2402:2a80::/32,国际媒体
